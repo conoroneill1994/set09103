@@ -1,0 +1,26 @@
+The web app I have built is an app for the scottish premier league that tells
+information about the 12 clubs in the league . It also shows the league table
+at the moment. The home page has a blue header with the words Scottish premier
+League on it which is in white so it stands out well on the background. The nav
+bar has a background of haf between orange and yellow and has two links one
+that takes the user to the league table and the other just keeps you on the
+page you are on. Then the main section of the page has the 12 teams and
+information about them and that is the a white background with black text. The
+next page Is the same as the first apart from on the table page its the league
+table on the main section and not information on the teams.
+
+Features I would like to add are having the league table change automatically
+done to results that happen in real life. Another would be to have image of the
+badge on the same page instead of clicking a link to show them. Maybe more
+pages as well and more information on the teams with an automatic change on
+them also.
+
+My own view on my app is its clear to read and its easy to get about I would
+maybe say add more information on just to fill up some space.
+
+I feel I have came a long way in learning how to use python as I only started
+using it few months ago . Challenges I have faced is getting an image on the
+same page as the html and not having to create a link to just route with the
+image on it. I also didn't understand how to link back to a page by clicking
+on the home page on the second page but I figured it out by looking online and
+I got javascript:history.go(-1) and I found this on stackoverflow help.
