@@ -1,0 +1,56 @@
+A
+
+The app I created is an app that lets the public find jobs and apply for them
+with a few simple clicks of a button. It has 4 pages Home , review , apply and
+a thank you page.
+
+B
+
+All the pages have the same desgin and URL structure with only the main section
+changing , which is a great use of consistency.
+Home page main section has a drop down for the user to select and that is when
+the user is aloud to click what job they want to apply for and once done they
+can press the apply button . Which then takes the user to the apply page that
+has a form to fill out , the user has to fill out there name , email and then
+upload there cv and once thats done click apply again which takes them to a
+thank you page. The review page lets the user mark the site out of 5 by
+clicking on the stars.
+
+C
+
+Features I would have liked to include are ;
+1. Having new jobs uploaded everyday.
+2. A login so every user has different accounts so they can just upload there
+cv once and can use it everytime they apply for jobs and also can upload images
+of themselves and a description of them.
+
+D
+
+I have should given myself more time to do this project so I could add more
+features to the app
+
+E
+
+As I said in section D I let myself down with time as I missed the deadline and
+never got as much done as I wish I did. The biggest challenge I faced was
+inserting javascript into this project I tried everything but I couldn't get it
+to work. I do feel I have learned a lot of good things since the first
+coursework such as being able to navigate pages by clicking on the link , also
+putting images onto a page with that has other things on the page and also
+learned how to use the upload method , testing and redirects.
+
+F
+
+Got most of my code from the workbook on module
+
+stars function : widget-engine.com/ratingcode.php
+
+Images :
+logo -
+cdn.shopify.com/s/files/1/0453/4797/files/Final_Icon_CV_Writing_compact.png?13820875831004932599
+facebook - 
+2.bp.blogspot.com/-tvmgENfHanM/U-kriCleTNI/AAAAAAAABvs/Yb5VeHaIgPU/s1600/facebook+logo+vector.png
+twitter -
+g.twimg.com/Twitter_logo_blue.png
+linkedIn -
+netdna.copyblogger.com/images/linkedIn.png
